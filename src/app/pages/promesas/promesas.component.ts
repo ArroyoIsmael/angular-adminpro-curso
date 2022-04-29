@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { rejects } from 'assert';
-import { resolve } from 'dns';
+// import { resolve } from 'dns';
 
 @Component({
   selector: 'app-promesas',

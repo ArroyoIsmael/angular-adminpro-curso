@@ -73,3 +73,10 @@ Login register and recover password Page
     position: absolute;
     height: 100%;
 }
+
+#googleBtn {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
